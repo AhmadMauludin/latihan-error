@@ -1,0 +1,14 @@
+Nama Peserta Didik : 
+Jawaban Kuis Pertama (Jenis - jenis error)
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+
+Adapun untuk Uji Kemampuan Pertama, kumpulkan kembali file aplikasi yang sudah diperbaiki bersama file ini, di zipkan, lalu kirim ke googleform pengumpulan tugas pada link s.id/tugaspamaldin dengan judul : TUGAS ERROR
